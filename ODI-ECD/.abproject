@@ -1,0 +1,45 @@
+{
+  "ProjectName": "ODI-ECD",
+  "ProjectGuid": "8b79407b-87ce-40f8-97fa-40f6f84f9394",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.ODIECD",
+  "DisplayName": "ODI-ECD",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{937da646-8e8e-4ea3-b38c-1408bcc44bd1}",
+  "WP8ProductID": "{01b876de-1bb6-4752-91d2-a160ba7cdb37}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.ODIECD",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
